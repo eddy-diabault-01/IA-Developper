@@ -1,1 +1,3 @@
 # IA-Developper
+
+key : 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
